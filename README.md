@@ -72,4 +72,9 @@ poetry run pytest --cov-figure test_figure.py
 4. Всі завдання виконано успішно
 5. Формат здачі зручний та наочний
 
-Скріни розміщені у відповідних розділах, де вони ілюструють результати виконання конкретних завдань. Кожен скріншот супроводжується поясненням, що на ньому відображено.**** перероби звіт але нормально
+![](photos/Screenshot_1.png)
+![](photos/Screenshot_2.png)
+![](photos/Screenshot_3.png)
+![](photos/Screenshot_4.png)
+![](photos/Screenshot_5.png)
+![](photos/Screenshot_6.png)
